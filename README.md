@@ -10,7 +10,7 @@ can be realised in $\R^3$ as a (possibly self-intersecting) polyhedral surface i
 
 ![Representative models](images/model_overview.png)
 
-The [model explorer on GitHub Pages](https://sotohisakawa.github.io/Polyhedra-of-Constant-Gaussian-Curvature/) displays the surfaces and their constructions. Select a surface to measure its edges and face angles, or enter orientability, genus and vertex count to look up a construction. For example, the [17-vertex orientable genus-two target](https://sotohisakawa.github.io/Polyhedra-of-Constant-Gaussian-Curvature/#target?o=1&g=2&v=17) leads from a square prism through the two-window construction to the extra waist vertex. For offline use, download or clone the repository and open [the local viewer](docs/index.html).
+The [model explorer on GitHub Pages](https://shizuo-kaji.github.io/Polyhedra-of-Constant-Gaussian-Curvature/) displays the surfaces and their constructions. Select a surface to measure its edges and face angles, or enter orientability, genus and vertex count to look up a construction. For example, the [17-vertex orientable genus-two target](https://shizuo-kaji.github.io/Polyhedra-of-Constant-Gaussian-Curvature/#target?o=1&g=2&v=17) leads from a square prism through the two-window construction to the extra waist vertex. For offline use, download or clone the repository and open [the local viewer](docs/index.html).
 
 
 ## Files and names

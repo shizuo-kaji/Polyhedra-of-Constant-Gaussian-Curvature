@@ -168,7 +168,7 @@ function createTargetFinder({models, routes, modelTitle, openModel, openRoute}) 
         "Join the vertices of each listed face in cyclic order by straight edges, and fill the resulting planar polygon. Identify shared edges with the same vertex labels."
       ], reference:"Companion collection · Original polygon coordinates and face cycles"};
       const link = document.createElement("a");
-      link.href = "https://github.com/SotoHisakawa/Polyhedra-of-Constant-Gaussian-Curvature/blob/main/models/" + model.name + ".json";
+      link.href = "https://github.com/shizuo-kaji/Polyhedra-of-Constant-Gaussian-Curvature/blob/main/models/" + model.name + ".json";
       link.textContent = "Coordinate and face data";
       el("target-actions").append(link);
     }
